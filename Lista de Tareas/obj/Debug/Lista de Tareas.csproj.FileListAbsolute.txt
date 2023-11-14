@@ -1,0 +1,12 @@
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe.config
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.AssemblyReference.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Properties.Resources.resources
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.GenerateResource.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.CoreCompileInputs.cache
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.exe
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.pdb
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Home.resources
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Create.resources
+C:\Users\genca\OneDrive\Documentos\ITLA PROYECTS\Programacion 2\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Update.resources
